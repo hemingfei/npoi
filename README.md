@@ -11,6 +11,8 @@ Donation
 ===============
 Paypal account: tonyqus@gmail.com
 
+Alipay account（支付宝）:tonyqus@163.com
+
 Support and Service
 ===================
 Neuzilla is the studio behind NPOI.
@@ -23,6 +25,7 @@ To follow us, please visit http://www.linkedin.com/company/neuzilla
 Advantage of NPOI
 =================
 a. It's totally free to use
+
 b. Cover most features of Excel (cell style, data format, formula and so on)
 
 c. Professional support service (even 24*7) from NPOI team (not free)
@@ -37,18 +40,18 @@ g. .Net 2.0 based even for xlsx and docx (though we also support .NET 4.0)
 
 h. Real successful cases all over the world
 
-i. huge amout of basic examples
+i. [huge amout of basic examples](https://github.com/tonyqus/npoi/tree/master/examples)
 
 Neuzilla on SNS
 ============
 Linkedin Group: https://www.linkedin.com/groups/6655065/
 
-Twitter: http://twitter.com/tonyqus
-
 QQ Group: 189925337, 20144214
 
 System Requirement
 ===================
+.NET Standard 2.0 (.NET Core)
+
 .NET Framework 4.0 and above
 
 .NET Standard 2.0
